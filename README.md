@@ -61,19 +61,23 @@ El reporte se verá reflejado en al siguiente ruta: `target/site/serenity/index.
 
 Para el caso de prueba requerido (standard_user): 
 
-![image](https://github.com/user-attachments/assets/cbc13af8-d77b-4222-a4fa-a4e96676d393)
+![Screenshot 2024-11-12 120639](https://github.com/user-attachments/assets/512b7820-e4c0-427e-9ed3-af1a641dfd77)
+
 
 
 Para los casos de prueba exitosos (standard_user, performance_glitch_user, visual_user): 
 
-![image](https://github.com/user-attachments/assets/37e69e6e-ad9b-4449-b8e2-d12ce3e95dac)
+![Screenshot 2024-11-12 120912](https://github.com/user-attachments/assets/335a15ff-519e-4824-81a9-408236644214)
+
 
 
 Para los casos de prueba fallidos (locked_out_user, problem_user, error_user):
 
-![image](https://github.com/user-attachments/assets/fceeafbf-812d-4dc2-9978-65c86b252de8)
+![Screenshot 2024-11-12 121224](https://github.com/user-attachments/assets/47e3bcca-a1c7-4485-a6e7-c9f4d5ef8a93)
+
 
 
 Para todos los casos de prueba en conjunto (standard_user, performance_glitch_user, visual_user, locked_out_user, problem_user, error_user):
 
-![image](https://github.com/user-attachments/assets/fec03062-983d-4ca2-81a0-aa0875d416d1)
+![Screenshot 2024-11-12 121541](https://github.com/user-attachments/assets/679ad693-899e-4847-a5ff-28bc61c1710d)
+
