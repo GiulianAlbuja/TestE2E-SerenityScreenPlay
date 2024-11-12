@@ -27,7 +27,7 @@ Finalmente, gracias a **Serenity BDD**, el resultados de cada prueba se ve refle
 
 Para poder ejecutar este proyecto de forma correcta, se debe cumplir con los siguientes prerequisitos en tu máquina local:
 
-- **IDE Recomendado**: [IntelliJ IDEA]
+- **IDE Recomendado**: [[IntelliJ IDEA](https://www.jetbrains.com/idea/download/?section=windows)]
 - **JDK**: [[JDK versión](https://docs.aws.amazon.com/corretto/)  11 -17 (configurado en la variable de entorno `JAVA_HOME`)] 
 - **Gradle**: [[Gradle versión](https://maven.apache.org/download.cgi) 7.6.1 o superiores (configurado en la variable de entorno `GRADLE_HOME`)]
 > **Nota**: Si se trabaja en IntelliJ IDEA se podrán ejecutar tareas Gradle desde el IDE sin necesidad de tener Gradle instalado y configurado en variables de entorno.
