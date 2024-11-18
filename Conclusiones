@@ -1,0 +1,9 @@
+# Proyecto TestE2E-SerenityScreenPlay
+
+## Conclusiones
+1. El uso de Serenity Screenplay para la automatización de pruebas E2E demuestra la relevancia de dominar herramientas modernas que estructuran pruebas de calidad. Este enfoque, combinado con el conocimiento teórico de verificación y validación del software, sirve de herramienta para asegurar que las funcionalidades del sistema cumplen con los requisitos desde las primeras fases del proyecto. 
+2. Es fundamental alinear la implementación de pruebas con el proceso de desarrollo de software para identificar defectos antes de que lleguen a las etapas finales de validación o producción. Detectar y corregir errores en etapas tempranas reduce significativamente el costo asociado a la resolución de defectos encontrados por los clientes, protegiendo la reputación del equipo y del producto. Este enfoque refuerza la idea de que QA no es solo una actividad técnica, sino, un conjunto de actividades estratégicas que procuran garantizar calidad y ofrecer valor al cliente.
+## Hallazgos 
+1. Serenity BDD facilita la creación de pruebas legibles y genera documentación automática en entornos BDD. Su capacidad para pruebas de UI y API, junto con informes detallados en lenguaje natural, lo hace ideal para equipos técnicos y no técnicos.
+2. Serenity BDD y Screenplay ofrecen modularidad, facilidad de lectura y flexibilidad. Juntos, permiten gestionar pruebas complejas con narrativas claras y reutilizables, optimizando el mantenimiento y la escalabilidad.
+3. Cucumber, mediante el uso del lenguaje Gherkin, facilita la comunicación entre equipos técnicos y de negocio al permitir escribir escenarios de prueba en un formato claro y legible por humanos. Esto ayuda a alinear los objetivos del software con las necesidades del negocio, asegurando que todos los involucrados comprendan los criterios de aceptación y el comportamiento esperado del sistema.
